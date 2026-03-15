@@ -1,0 +1,10 @@
+{
+  "role": "Support",
+  "emoji": "🎧",
+  "description": "User issues, bug triage, responses",
+  "frequencyMinutes": 15,
+  "lastRun": null,
+  "status": "idle",
+  "tasksCompleted": 0,
+  "currentTask": null
+}

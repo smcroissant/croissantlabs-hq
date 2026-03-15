@@ -1,0 +1,10 @@
+{
+  "role": "DevOps",
+  "emoji": "🚀",
+  "description": "Deployments, infrastructure, monitoring",
+  "frequencyMinutes": 20,
+  "lastRun": null,
+  "status": "idle",
+  "tasksCompleted": 0,
+  "currentTask": null
+}

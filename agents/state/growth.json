@@ -1,0 +1,10 @@
+{
+  "role": "Growth",
+  "emoji": "🔍",
+  "description": "Market research, competitor analysis, feature ideas",
+  "frequencyMinutes": 45,
+  "lastRun": null,
+  "status": "idle",
+  "tasksCompleted": 0,
+  "currentTask": null
+}

@@ -1,0 +1,10 @@
+{
+  "role": "CEO",
+  "emoji": "🎯",
+  "description": "Strategic decisions, company health, priorities",
+  "frequencyMinutes": 30,
+  "lastRun": null,
+  "status": "idle",
+  "tasksCompleted": 0,
+  "currentTask": null
+}

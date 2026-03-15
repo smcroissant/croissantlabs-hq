@@ -1,0 +1,10 @@
+{
+  "role": "Developer",
+  "emoji": "💻",
+  "description": "Code features, fix bugs, create PRs",
+  "frequencyMinutes": 10,
+  "lastRun": null,
+  "status": "idle",
+  "tasksCompleted": 0,
+  "currentTask": null
+}
