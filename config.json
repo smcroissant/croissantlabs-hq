@@ -1,0 +1,8 @@
+{
+  "activeProjects": [],
+  "rules": {
+    "onlyWorkOnActiveProjects": true,
+    "ownerDecides": true,
+    "description": "Only Michel decides which projects the agents work on. To add a project, add it to activeProjects array."
+  }
+}
