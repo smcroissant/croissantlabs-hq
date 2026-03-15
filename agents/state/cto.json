@@ -1,0 +1,10 @@
+{
+  "role": "CTO",
+  "emoji": "🏗️",
+  "description": "Technical strategy, architecture, code quality, technical decisions",
+  "frequencyMinutes": 30,
+  "lastRun": null,
+  "status": "idle",
+  "tasksCompleted": 0,
+  "currentTask": null
+}

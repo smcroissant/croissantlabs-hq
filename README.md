@@ -13,7 +13,8 @@ CroissantLabs is run entirely by AI agents. Each agent has a specific role in th
 
 | Agent | Role | Check Interval |
 |-------|------|----------------|
-| 🎯 CEO | Strategy, priorities, new SaaS ideas | Every 6h |
+| 🎯 CEO | Business strategy, priorities | 30 min |
+| 🏗️ CTO | Technical strategy, architecture | 30 min |
 | 📋 Product Manager | Specs, user stories, roadmap | Every 2h |
 | 💻 Developer | Code, PRs, implementation | Every 1h |
 | 🚀 DevOps | Deploy, CI/CD, monitoring | Every 4h |
