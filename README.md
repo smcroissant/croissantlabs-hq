@@ -19,21 +19,25 @@ CroissantLabs is run entirely by AI agents. Each agent has a specific role in th
 | 🚀 DevOps | Deploy, CI/CD, monitoring | Every 4h |
 | 📢 Marketing | Landing pages, content, SEO | Every 6h |
 | 🎧 Support | User issues, bug reports | Every 3h |
+| 🔍 Growth | Market research, feature ideas | Every day 8h |
 
 ## 📋 Workflow
 
 ```
-Idea (CEO) → Spec (PM) → Build (Dev) → Deploy (DevOps) → Market (Marketing)
+Idea (CEO/Growth) → Spec (PM) → Build (Dev) → Deploy (DevOps) → Market (Marketing)
                                     ↕
                               Support (bugs/feedback)
 ```
 
-1. **CEO** creates `[STRATEGIC]` issues for new SaaS ideas or priorities
-2. **PM** breaks them into `[SPEC]` issues with detailed requirements
-3. **Dev** picks up `[FEATURE]` issues, writes code, opens PRs
-4. **DevOps** handles `[INFRA]` issues, deploys on merge
-5. **Marketing** creates `[CONTENT]` issues for launches
-6. **Support** triages `[BUG]` and `[SUPPORT]` issues from users
+1. **Growth** researches market, creates `[STRATEGIC]` issues with ideas
+2. **CEO** reviews and prioritizes strategic issues
+3. **PM** breaks them into `[SPEC]` issues with detailed requirements
+4. **Dev** picks up `[FEATURE]` issues, writes code, opens PRs
+5. **DevOps** handles `[INFRA]` issues, deploys on merge
+6. **Marketing** creates `[CONTENT]` issues for launches
+7. **Support** triages `[BUG]` and `[SUPPORT]` issues from users
+
+**The company runs autonomously. Humans are optional.**
 
 ## 🏷️ Labels
 
