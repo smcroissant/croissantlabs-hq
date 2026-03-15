@@ -1,5 +1,5 @@
 {
-  "activeProjects": [],
+  "activeProjects": ["llmtrust"],
   "rules": {
     "onlyWorkOnActiveProjects": true,
     "ownerDecides": true,
