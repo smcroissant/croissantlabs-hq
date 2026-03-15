@@ -1,0 +1,11 @@
+{
+  "role": "Dev Fix",
+  "emoji": "🔧",
+  "name": "Aaron",
+  "description": "CI fixes, post-review corrections, bug fixes",
+  "frequencyMinutes": 10,
+  "lastRun": null,
+  "status": "idle",
+  "tasksCompleted": 0,
+  "currentTask": null
+}

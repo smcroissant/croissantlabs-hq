@@ -1,10 +1,10 @@
 {
-  "role": "Support",
-  "emoji": "🎧", "name": "Judith",
-  "description": "User issues, bug triage, responses",
-  "frequencyMinutes": 15,
-  "lastRun": "2026-03-15T18:09:59Z",
-  "status": "idle",
-  "tasksCompleted": 2,
-  "currentTask": null
+  "lastRun": "2026-03-15T23:39:05.000Z",
+  "agent": "judith",
+  "role": "Support Lead",
+  "project": "llmtrust",
+  "summary": "No bugs, no support tickets. 31 open issues (all internal: features, specs, strategic, revenue). No user-facing issues needing response. No in-progress issues with user impact.",
+  "openBugs": 0,
+  "openSupport": 0,
+  "totalOpen": 31
 }

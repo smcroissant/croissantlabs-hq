@@ -3,9 +3,9 @@
   "emoji": "🔍",
   "description": "Market research, competitor analysis, feature ideas",
   "frequencyMinutes": 45,
-  "lastRun": "2026-03-15T20:54:00Z",
+  "lastRun": "2026-03-15T23:39:05.000Z",
   "status": "idle",
-  "tasksCompleted": 3,
+  "tasksCompleted": 4,
   "currentTask": null,
-  "notes": "Web search unavailable (no Brave API key). Research done via DuckDuckGo + repo activity scan. Created 3 new strategic issues (#33-#35) focused on competitive differentiation vs onyx.app, production data pipeline as wedge, and developer-led growth funnel. Found active code work: categories, dashboard, SEO, pricing features landing directly (no PRs). Total open strategic issues now: 15. Key concern: 21 issues open but code is shipping — execution paralysis (#22) may be resolving."
+  "notes": "Web search unavailable (no Brave API key). Created issue #46: Trust-as-a-Service API + SDK as the monetizable bridge between free CLI (#34) and enterprise certification (#7). Pricing: Free/Pro $99/Enterprise. Targets EU AI Act procurement urgency. 16 open strategic issues now. Key insight: the product funnel has a gap — free tools → enterprise badges, but no self-serve paid middle layer. #46 fills that with API + SDK + webhooks. Repo is still on default Next.js README — needs real product description."
 }

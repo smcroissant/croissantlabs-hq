@@ -4,8 +4,9 @@
   "name": "Salomé",
   "description": "Revenue, pricing, monetization, business metrics",
   "frequencyMinutes": 60,
-  "lastRun": null,
+  "lastRun": "2026-03-15T23:39:05.000Z",
   "status": "idle",
-  "tasksCompleted": 0,
-  "currentTask": null
+  "tasksCompleted": 1,
+  "currentTask": null,
+  "lastAssessment": "First CFO run (Mar 15, 22:04). Reviewed pricing page ($19/$49), MONETIZATION.md, PRICING-REVIEW.md. Key findings: (1) Pricing mismatch #37 critical — Stripe has $9.99/$29.99, page shows $19/$49. Left revenue impact comment estimating $108K/yr loss at scale. (2) No annual pricing exists — created issue #48 [REVENUE] to add annual toggle with 20% discount. (3) No revenue label on repo — created it. (4) Free tier has 100 API calls/day limit but no enforcement (#42). Priority: Fix #37 → Launch #48 (annual) → Ship #42 (metering)."
 }

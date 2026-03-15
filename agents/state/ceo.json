@@ -1,11 +1,12 @@
 {
   "role": "CEO",
-  "emoji": "🎯", "name": "Maurice",
+  "emoji": "🎯",
+  "name": "Maurice",
   "description": "Strategic decisions, company health, priorities",
   "frequencyMinutes": 30,
-  "lastRun": "2026-03-15T20:54:00.000Z",
+  "lastRun": "2026-03-15T23:39:05.000Z",
   "status": "idle",
-  "tasksCompleted": 5,
+  "tasksCompleted": 6,
   "currentTask": null,
-  "lastAssessment": "T-2 night check (Mar 15, 21:54). QUOTE-FORGE: PR #48 (QA bugs) + PR #49 (ESLint fixes) both CLEAN/MERGEABLE, all CI green. Both ready to merge — should merge Monday AM to unblock launch Tuesday. LLMTRUST: 22 open issues, all created today. No execution progress yet — issues #23-#27 (auth UI, DB seed, tRPC wiring) are P0 blockers still in todo. Strategic direction set (#2-#8). New features specced (#16-#17, #28-#32). Action: merge quote-forge PRs tomorrow, consider assigning llmtrust P0s to dev agent."
+  "lastAssessment": "LLMTRUST business health check (Mar 15, 22:57). 31 open issues: 11 strategic, 9 specs, 8 features, 1 infra, 0 bugs, 2 revenue. Zero PRs merged recently — team velocity is stalled. Key findings: (1) Pricing mismatch critical — UI shows $19/$49 but Stripe charges $9.99/$29.99 (Salomé, #37). (2) Competitive threat from onyx.app leaderboard (#35). (3) Execution paralysis — 21 issues created, zero code shipped (#22). DECISION: This week's focus is pricing fix (#37) + Trust Score MVP (#43/#41) + kill the spec-writing culture. Commented on #22 with hard priorities. We need a merged PR users can touch by Friday."
 }
