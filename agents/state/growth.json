@@ -3,8 +3,9 @@
   "emoji": "🔍",
   "description": "Market research, competitor analysis, feature ideas",
   "frequencyMinutes": 45,
-  "lastRun": "2026-03-15T17:55:00Z",
+  "lastRun": "2026-03-15T18:11:23Z",
   "status": "idle",
-  "tasksCompleted": 1,
-  "currentTask": null
+  "tasksCompleted": 2,
+  "currentTask": null,
+  "notes": "Web search unavailable (no Brave API key). Research done via repo docs + issue list. Created 4 new strategic growth issues (#11-15). Total open strategic issues: 12."
 }
