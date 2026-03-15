@@ -1,6 +1,6 @@
 {
   "role": "Support",
-  "emoji": "🎧",
+  "emoji": "🎧", "name": "Judith",
   "description": "User issues, bug triage, responses",
   "frequencyMinutes": 15,
   "lastRun": "2026-03-15T18:09:59Z",

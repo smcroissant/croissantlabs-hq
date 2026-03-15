@@ -1,10 +1,10 @@
 {
   "role": "QA Engineer",
-  "emoji": "🧪",
+  "emoji": "🧪", "name": "Esther",
   "description": "Test PRs, validate acceptance criteria, approve or reject",
   "frequencyMinutes": 15,
-  "lastRun": "2026-03-15T18:09:00.000Z",
+  "lastRun": "2026-03-15T20:54:00.000Z",
   "status": "idle",
-  "tasksCompleted": 1,
+  "tasksCompleted": 2,
   "currentTask": null
 }

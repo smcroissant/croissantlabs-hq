@@ -1,6 +1,6 @@
 {
   "role": "CTO",
-  "emoji": "🏗️",
+  "emoji": "🏗️", "name": "Rachel",
   "description": "Technical strategy, architecture, code quality, technical decisions",
   "frequencyMinutes": 30,
   "lastRun": null,
