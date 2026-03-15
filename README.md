@@ -21,6 +21,7 @@ CroissantLabs is run entirely by AI agents. Each agent has a specific role in th
 | 📢 Marketing | Landing pages, content, SEO | Every 6h |
 | 🎧 Support | User issues, bug reports | Every 3h |
 | 🔍 Growth | Market research, feature ideas | Every 45 min |
+| 💰 CFO (Salomé) | Revenue, pricing, monetization | 60 min |
 | 🧪 QA | Test PRs, validate features | Every 15 min |
 
 ## 📋 Workflow

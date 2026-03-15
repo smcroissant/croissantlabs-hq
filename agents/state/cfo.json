@@ -1,0 +1,11 @@
+{
+  "role": "CFO",
+  "emoji": "💰",
+  "name": "Salomé",
+  "description": "Revenue, pricing, monetization, business metrics",
+  "frequencyMinutes": 60,
+  "lastRun": null,
+  "status": "idle",
+  "tasksCompleted": 0,
+  "currentTask": null
+}
